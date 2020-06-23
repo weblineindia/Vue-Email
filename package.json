@@ -1,0 +1,26 @@
+{
+  "name": "vue-weblineindia-email",
+  "version": "1.0.0",
+  "description": "A Vue.js email component is provide multiple email and validation.",
+  "main": "./lib/email.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Email",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-email",
+    "email",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "vee-validate": "^2.2.15",
+    "vue-multiselect-demo": "^1.0.0",
+    "vuelidate": "^0.7.5"
+  }
+}
