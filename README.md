@@ -1,4 +1,4 @@
-# Vue-email
+# Vue Email Component
 
 A Vue.js email component is provide to add  single/multiple input email field with validation.
 The email value is automatically validated on blur event.
